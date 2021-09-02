@@ -32,7 +32,7 @@
     border-radius: 50px;
     width: 36px;
     height: 36px;
-    background: rgba(73, 181, 231, 0.8);
+    background: #f50136;
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -41,7 +41,7 @@
   }
   
   .team .member .social a:hover {
-    background: #76c7ed;
+    background: #f50136;
   }
   
   .team .member .social i {
